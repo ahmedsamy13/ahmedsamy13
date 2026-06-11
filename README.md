@@ -75,7 +75,7 @@ As an ambitious developer starting my professional journey, my immediate goals a
 I am always open to discussing web development, modern tech stacks, or new opportunities.
 
 <p align="left">
-  <!-- Update these links with your actual URLs -->
+
   <a href="mailto:ahmedsamy9630@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
