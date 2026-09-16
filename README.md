@@ -74,17 +74,6 @@ As I continue to grow, I am dedicating my time to mastering advanced full-stack 
 
 </div>
 
-<br/>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
-  </picture>
-
-</div>
 
 ### 📈 Contribution Graph
 
