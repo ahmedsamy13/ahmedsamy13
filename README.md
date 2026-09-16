@@ -49,15 +49,15 @@ As I continue to grow, I am dedicating my time to mastering advanced full-stack 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" height="180" />
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" alt="Top Languages" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" alt="Top Languages" height="180" />
   </picture>
 
 </div>
@@ -79,9 +79,9 @@ As I continue to grow, I am dedicating my time to mastering advanced full-stack 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedsamy13&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-trophies.vercel.app/?username=ahmedsamy13&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%" />
   </picture>
 
 </div>
@@ -91,9 +91,9 @@ As I continue to grow, I am dedicating my time to mastering advanced full-stack 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamy13&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" alt="Contribution Graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=minimal&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" alt="Contribution Graph" width="100%" />
   </picture>
 
 </div>
