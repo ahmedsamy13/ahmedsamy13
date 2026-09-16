@@ -49,40 +49,9 @@ As I continue to grow, I am dedicating my time to mastering advanced full-stack 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedsamy13&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3&ring_color=3B82F6&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" height="180" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedsamy13&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&langs_count=8" alt="Top Languages" height="180" />
-  </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ahmedsamy13&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=A3A3A3&sideNums=A3A3A3&sideLabels=A3A3A3&dates=6B7280" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ahmedsamy13&theme=default&hide_border=true" />
     <img src="https://streak-stats.demolab.com/?user=ahmedsamy13&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=A3A3A3&sideNums=A3A3A3&sideLabels=A3A3A3&dates=6B7280" alt="GitHub Streak" />
-  </picture>
-
-</div>
-
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=minimal&hide_border=true&area=true" />
-    <img src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=ahmedsamy13&theme=react-dark&hide_border=true&bg_color=00000000&color=A3A3A3&line=3B82F6&point=3B82F6&area=true&area_color=3B82F6" alt="Contribution Graph" width="100%" />
   </picture>
 
 </div>
