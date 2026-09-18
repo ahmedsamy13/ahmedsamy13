@@ -4,8 +4,6 @@
 
 **Ambitious 23-year-old Full-Stack Developer passionate about creating interactive, high-performance applications and robust backend architectures.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmedsamy13&color=3B82F6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ahmedsamy13)
-
 </div>
 
 ---
